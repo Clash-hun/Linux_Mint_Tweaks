@@ -81,7 +81,7 @@ Here you'll find several useful scripts designed to simplify tasks and enhance y
    ```  
 2. Navigate to the folder:  
    ```bash
-   cd linux-mint-scripts
+   cd linux-mint-scripts/Linux Mint Tweak
    ```  
 3. Run a script:  
    ```bash
