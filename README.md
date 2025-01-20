@@ -3,6 +3,10 @@
 Welcome to my **Linux Mint** script collection! 🌱✨  
 Here you'll find several useful scripts designed to simplify tasks and enhance your Linux Mint experience. 🚀
 
+<div align="center">
+  <img src="leaf-name-black.svg" alt="Linux Mint Banner" />
+</div>
+
 ---
 
 ## 🔠 Scripts Overview
